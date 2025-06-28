@@ -1,4 +1,4 @@
-import { features } from "../utils/Features.js";
+import { features } from "../utils/features.js";
 
 function Features() {
     return (
